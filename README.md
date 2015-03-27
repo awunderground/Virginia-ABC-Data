@@ -3,9 +3,15 @@ Virginia ABC Data
 
 Collecting and enhancing public data released by the Virginia Department of Alcoholic Beverage Control (ABC).
 
-Plans for eventually:
- - Monthly price list updates
- - Records of final decisions of board
- - Licensee data
+Already here:
+- Bulk download of entire ABC product catalog as JSON -- I'll be updating this regularly, for now the updates are manual but I will be able to automate this soon.
+
+Future plans for bulk downloads:
+- Licensee records
+- Administrative decision records
+- Probably some other stuff!
+
+Use freely, give feedback, and enjoy!
+
  
  
